@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on </title>
+    <link>//localhost:1313/post/</link>
+    <description>Recent content in Post on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2024 00:07:24 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work</title>
+      <link>//localhost:1313/post/work/</link>
+      <pubDate>Mon, 14 Oct 2024 00:07:24 +0800</pubDate>
+      <guid>//localhost:1313/post/work/</guid>
+      <description>&lt;h1 id=&#34;bytedance-ai-lab-research-aiddai-drug-design&#34;&gt;ByteDance, AI Lab Research, AIDD(AI Drug Design)&lt;/h1&gt;&#xA;&lt;p&gt;ProtesinSora: Protein Moldecular Dynamics Trajectory Generation Based on Diffusion&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
