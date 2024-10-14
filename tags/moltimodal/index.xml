@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moltimodal on </title>
+    <link>//localhost:1313/tags/moltimodal/</link>
+    <description>Recent content in Moltimodal on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2024 01:19:35 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/moltimodal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ByteDance Intern</title>
+      <link>//localhost:1313/posts/work/</link>
+      <pubDate>Mon, 14 Oct 2024 01:19:35 +0800</pubDate>
+      <guid>//localhost:1313/posts/work/</guid>
+      <description>&lt;h2 id=&#34;ai-lab-research-aidd-ai-drug-design&#34;&gt;&lt;strong&gt;AI Lab Research, AIDD (AI Drug Design)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;protesinsora-protein-moldecular-dynamics-trajectory-generation-based-on-diffusion-supervisor-quanquan-gu&#34;&gt;&lt;em&gt;ProtesinSora: Protein Moldecular Dynamics Trajectory Generation Based on Diffusion (Supervisor: Quanquan Gu)&lt;/em&gt;&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>
