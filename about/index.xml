@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on </title>
-    <link>//localhost:1313/about/</link>
+    <link>https://Islet-Yang.github.io/about/</link>
     <description>Recent content in About on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Islet-Yang.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>//localhost:1313/about/intro/</link>
+      <link>https://Islet-Yang.github.io/about/intro/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/intro/</guid>
+      <guid>https://Islet-Yang.github.io/about/intro/</guid>
       <description>&lt;h3 id=&#34;my-name-is-bangji-yang-an-undergraduate-majoring-in-automation-at-tsinghua-university-my-reserach-is-in-computational-biology-and-machine-learning-with-a-focus-on-protein-conformation-prediction-protein-molecular-dynamics-trajectory-generation-sequence-modeling&#34;&gt;My name is Bangji Yang, an undergraduate majoring in Automation at &lt;strong&gt;Tsinghua University&lt;/strong&gt;. My reserach is in &lt;strong&gt;computational biology&lt;/strong&gt; and &lt;strong&gt;machine learning&lt;/strong&gt;, with a focus on protein conformation prediction, protein molecular dynamics trajectory generation, sequence modeling.&lt;/h3&gt;&#xA;&lt;h3 id=&#34;here-is-my-cv&#34;&gt;Here is my CV.&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../img/bg.jpg&#34; alt=&#34;Report&amp;rsquo;&#34; title=&#34;Singapore&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
