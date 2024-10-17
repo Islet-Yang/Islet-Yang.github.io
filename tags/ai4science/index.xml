@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI4Science on </title>
-    <link>https://Islet-Yang.github.io/tags/ai4science/</link>
+    <link>https//Islet-Yang.github.io/tags/ai4science/</link>
     <description>Recent content in AI4Science on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Islet-Yang.github.io/tags/ai4science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https//Islet-Yang.github.io/tags/ai4science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ByteDance Intern</title>
-      <link>https://Islet-Yang.github.io/posts/work/</link>
+      <link>https//Islet-Yang.github.io/posts/work/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://Islet-Yang.github.io/posts/work/</guid>
-      <description>&lt;h2 id=&#34;ai-lab-research-aidd-ai-drug-design&#34;&gt;&lt;strong&gt;AI Lab Research, AIDD (AI Drug Design)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;protesinsora-protein-moldecular-dynamics-trajectory-generation-based-on-diffusion&#34;&gt;&lt;em&gt;ProtesinSora: Protein Moldecular Dynamics Trajectory Generation Based on Diffusion&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;supervisor-quanquan-gu&#34;&gt;&lt;em&gt;(Supervisor: Quanquan Gu)&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Proposed a framework for protein molecular dynamics trajectory generation based on Diffusion.&lt;/li&gt;&#xA;&lt;li&gt;Designed three novel metrics for protein molecular dynamics trajectory evaluation.&lt;/li&gt;&#xA;&lt;li&gt;Improved the accuracy and realism of protein molecular dynamics trajectory through physical prior knowledge and particular loss functions.&lt;/li&gt;&#xA;&lt;li&gt;Researched methods for long molecular dynamics protein trajectory generation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;MSM State Transitions&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;MD Trajectory Generation&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../img/resized.jpg&#34; alt=&#34;Press ↖️Title &amp;lsquo;Bangji Yang&amp;rsquo;&#34; title=&#34;Markov State Transitions&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../img/color.gif&#34; alt=&#34;Press ↖️Title &amp;lsquo;Bangji Yang&amp;rsquo;&#34; title=&#34;MD Trajectory Generation&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+      <guid>https//Islet-Yang.github.io/posts/work/</guid>
+      <description>&lt;h2 id=&#34;ai-lab-research-aidd-ai-drug-design&#34;&gt;&lt;strong&gt;AI Lab Research, AIDD (AI Drug Design)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;protesinsora-protein-molecular-dynamics-trajectory-generation-based-on-diffusion&#34;&gt;&lt;em&gt;ProtesinSora: Protein Molecular Dynamics Trajectory Generation Based on Diffusion&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;supervisor-quanquan-gu&#34;&gt;&lt;em&gt;(Supervisor: Quanquan Gu)&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Proposed a framework for protein molecular dynamics trajectory generation based on Diffusion.&lt;/li&gt;&#xA;&lt;li&gt;Designed three novel metrics for protein molecular dynamics trajectory evaluation.&lt;/li&gt;&#xA;&lt;li&gt;Improved the accuracy and realism of protein molecular dynamics trajectory through physical prior knowledge and particular loss functions.&lt;/li&gt;&#xA;&lt;li&gt;Researched methods for long molecular dynamics protein trajectory generation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;MSM State Transitions&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;MD Trajectory Generation&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../img/resized.jpg&#34; alt=&#34;Press ↖️Title &amp;lsquo;Bangji Yang&amp;rsquo;&#34; title=&#34;Markov State Transitions&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../img/color.gif&#34; alt=&#34;Press ↖️Title &amp;lsquo;Bangji Yang&amp;rsquo;&#34; title=&#34;MD Trajectory Generation&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
